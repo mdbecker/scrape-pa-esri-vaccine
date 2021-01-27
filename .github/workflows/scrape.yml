@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '12,27,42,57 * * * *'
+    - cron:  '8,23,38,53 * * * *'
 
 jobs:
   scheduled:
@@ -15,22 +15,22 @@ jobs:
     - name: Fetch latest data
       run: |-
         curl 'https://services1.arcgis.com/Nifc7wlHaBPig3Q3/arcgis/rest/services/Vaccine_Provider_Contact_Form_VIEW/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=objectid%20ASC&resultOffset=0&resultRecordCount=1000&cacheHint=true&quantizationParameters=%7B%22mode%22%3A%22edit%22%7D' \
-  -H 'authority: services1.arcgis.com' \
-  -H 'pragma: no-cache' \
-  -H 'cache-control: no-cache' \
-  -H 'sec-ch-ua: "Google Chrome";v="87", " Not;A Brand";v="99", "Chromium";v="87"' \
-  -H 'sec-ch-ua-mobile: ?0' \
-  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36' \
-  -H 'accept: */*' \
-  -H 'origin: https://padoh.maps.arcgis.com' \
-  -H 'sec-fetch-site: same-site' \
-  -H 'sec-fetch-mode: cors' \
-  -H 'sec-fetch-dest: empty' \
-  -H 'referer: https://padoh.maps.arcgis.com/home/item.html?id=8f6a17bbb8af42c0951c24e3b0a15566' \
-  -H 'accept-language: en-US,en;q=0.9' \
-  -H 'dnt: 1' \
-  -H 'sec-gpc: 1' \
-  --compressed | jq > data.json
+        -H 'authority: services1.arcgis.com' \
+        -H 'pragma: no-cache' \
+        -H 'cache-control: no-cache' \
+        -H 'sec-ch-ua: "Google Chrome";v="87", " Not;A Brand";v="99", "Chromium";v="87"' \
+        -H 'sec-ch-ua-mobile: ?0' \
+        -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36' \
+        -H 'accept: */*' \
+        -H 'origin: https://padoh.maps.arcgis.com' \
+        -H 'sec-fetch-site: same-site' \
+        -H 'sec-fetch-mode: cors' \
+        -H 'sec-fetch-dest: empty' \
+        -H 'referer: https://padoh.maps.arcgis.com/home/item.html?id=8f6a17bbb8af42c0951c24e3b0a15566' \
+        -H 'accept-language: en-US,en;q=0.9' \
+        -H 'dnt: 1' \
+        -H 'sec-gpc: 1' \
+        --compressed | jq > data.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
