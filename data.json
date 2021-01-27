@@ -3957,7 +3957,7 @@
         "CompanyName": "St. Mary Medical Center",
         "EntityName": "St. Mary Medical Center",
         "FullAddress": "1201 Langhorne-Newtown Rd, Langhorne, PA 19047",
-        "POCname": "Suzette Cunicelli",
+        "POCname": "",
         "POCphone": "215-710-2832",
         "POCemail": "LHHSCOVIDVac@stmaryhealthcare.org",
         "FacilityType": "Hospital",
@@ -3980,8 +3980,8 @@
         "Notes": "Clinic is by appointment ONLY. Anyone interested in scheduling a vaccine appointment must first fill out a request form at https://www.trinityhealthma.org/covid-19/vaccine-request for reviewal.",
         "CreationDate": 1609883849181,
         "Creator": "",
-        "EditDate": 1609883849181,
-        "Editor": "",
+        "EditDate": 1611778944135,
+        "Editor": "nwardle@pa.lcl_PADOH",
         "VaccineYesNo": null
       }
     },
@@ -8192,7 +8192,7 @@
         "CompanyName": "Mercy Catholic Medical Center, Mercy Fitzgerald Campus",
         "EntityName": "Mercy Catholic Medical Center, Mercy Fitzgerald Campus",
         "FullAddress": "1500 Lansdowne Avenue Darby, PA 19023",
-        "POCname": "Kellyann Morrison",
+        "POCname": "",
         "POCphone": "610-237-5785",
         "POCemail": "MFHVaccine@mercyhealth.org",
         "FacilityType": "Hospital",
@@ -8215,7 +8215,7 @@
         "Notes": null,
         "CreationDate": 1609962160839,
         "Creator": "",
-        "EditDate": 1611086769530,
+        "EditDate": 1611778967978,
         "Editor": "nwardle@pa.lcl_PADOH",
         "VaccineYesNo": null
       }
