@@ -30,7 +30,7 @@ jobs:
         -H 'accept-language: en-US,en;q=0.9' \
         -H 'dnt: 1' \
         -H 'sec-gpc: 1' \
-        --compressed | jq > data.json
+        --compressed | jq . > data.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
