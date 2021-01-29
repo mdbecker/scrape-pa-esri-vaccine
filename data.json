@@ -12182,9 +12182,9 @@
         "CompanyName": "Primary Health Network-Oil City Health Center",
         "EntityName": "Primary Health Network-Oil City Health Center",
         "FullAddress": "811 Grandview Road",
-        "POCname": "Keri Hollidge",
-        "POCphone": "8146707950",
-        "POCemail": "khollidge@primary-health.net",
+        "POCname": "Primary Health Network COVID Vaccine Scheduling Department",
+        "POCphone": "724-669-9211",
+        "POCemail": "covidvaccine@primary-health.net",
         "FacilityType": "Federal",
         "PublicLink": "https://www.primary-health.net/",
         "SunBegin": null,
@@ -12205,7 +12205,7 @@
         "Notes": null,
         "CreationDate": 1610375931355,
         "Creator": "",
-        "EditDate": 1611691313225,
+        "EditDate": 1611941058011,
         "Editor": "nwardle@pa.lcl_PADOH",
         "VaccineYesNo": "Received"
       }
