@@ -24039,6 +24039,41 @@
         "Editor": "",
         "VaccineYesNo": "NotReceived"
       }
+    },
+    {
+      "attributes": {
+        "objectid": 777,
+        "globalid": "1fbf41af-13f7-4a65-8b05-d88e6bf38666",
+        "CompanyName": "Wilkes-Barre City ",
+        "EntityName": "Wilkes-Barre City Health Department",
+        "FullAddress": "71 N. Franklin Street Wilkes-Barre, PA  18701",
+        "POCname": "Delphine Torbik",
+        "POCphone": "15702084268",
+        "POCemail": "covidvaccine@wilkes-barre.pa.us",
+        "FacilityType": "Other",
+        "PublicLink": "covidvaccine@wilkes-barre.pa.us",
+        "SunBegin": null,
+        "SunEnd": null,
+        "MonBegin": null,
+        "MonEnd": null,
+        "TueBegin": null,
+        "TueEnd": null,
+        "WedBegin": null,
+        "WedEnd": null,
+        "ThuBegin": null,
+        "ThuEnd": null,
+        "FriBegin": null,
+        "FriEnd": null,
+        "SatBegin": null,
+        "SatEnd": null,
+        "ID_reqs": null,
+        "Notes": null,
+        "CreationDate": 1611954265718,
+        "Creator": "",
+        "EditDate": 1611954265718,
+        "Editor": "",
+        "VaccineYesNo": null
+      }
     }
   ]
 }
