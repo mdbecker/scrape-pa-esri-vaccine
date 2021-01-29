@@ -10853,10 +10853,10 @@
         "EntityName": "Berwick Hospital Center",
         "FullAddress": "701 E. 16th St",
         "POCname": "Linda Frankevich",
-        "POCphone": "5707595522",
+        "POCphone": "",
         "POCemail": "",
         "FacilityType": "Hospital",
-        "PublicLink": null,
+        "PublicLink": "https://berwickhospitalcenter.com/covid%E2%80%9119-vaccine/",
         "SunBegin": null,
         "SunEnd": null,
         "MonBegin": "8",
@@ -10875,7 +10875,7 @@
         "Notes": null,
         "CreationDate": 1610369542031,
         "Creator": "",
-        "EditDate": 1611337537926,
+        "EditDate": 1611927144909,
         "Editor": "nwardle@pa.lcl_PADOH",
         "VaccineYesNo": null
       }
@@ -11274,7 +11274,7 @@
         "FullAddress": "100 Hospital Ave, Dubois, PA 15801",
         "POCname": "Penn Highlands Healthcare",
         "POCphone": "8145034735",
-        "POCemail": "COVID19Vaccine@phhealthcare.org",
+        "POCemail": "",
         "FacilityType": "Hospital",
         "PublicLink": null,
         "SunBegin": null,
@@ -11295,7 +11295,7 @@
         "Notes": null,
         "CreationDate": 1610372683688,
         "Creator": "c_joeroger@pa.lcl_PADOH",
-        "EditDate": 1611179725620,
+        "EditDate": 1611927369603,
         "Editor": "nwardle@pa.lcl_PADOH",
         "VaccineYesNo": null
       }
@@ -11414,7 +11414,7 @@
         "FullAddress": "100 Hospital Rd, Brookville, PA 15825",
         "POCname": "Penn Highlands Healthcare",
         "POCphone": "8145034735",
-        "POCemail": "covid19vaccine@phhealthcare.org",
+        "POCemail": "",
         "FacilityType": "Hospital",
         "PublicLink": null,
         "SunBegin": null,
@@ -11435,7 +11435,7 @@
         "Notes": null,
         "CreationDate": 1610372812128,
         "Creator": "c_joeroger@pa.lcl_PADOH",
-        "EditDate": 1611179759457,
+        "EditDate": 1611927386589,
         "Editor": "nwardle@pa.lcl_PADOH",
         "VaccineYesNo": null
       }
@@ -11484,7 +11484,7 @@
         "FullAddress": "809 Turnpike Ave, Clearfield, PA 16830",
         "POCname": "Penn Highlands Healthcare",
         "POCphone": "8145034735",
-        "POCemail": "covid19vaccine@phhealthcare.org",
+        "POCemail": "",
         "FacilityType": "Hospital",
         "PublicLink": null,
         "SunBegin": null,
@@ -11505,7 +11505,7 @@
         "Notes": null,
         "CreationDate": 1610372971223,
         "Creator": "c_joeroger@pa.lcl_PADOH",
-        "EditDate": 1611179781659,
+        "EditDate": 1611927403812,
         "Editor": "nwardle@pa.lcl_PADOH",
         "VaccineYesNo": null
       }
@@ -11624,7 +11624,7 @@
         "FullAddress": "763 Johnsonburg Rd, Saint Marys, PA 15857",
         "POCname": "Penn Highlands Healthcare",
         "POCphone": "8145034735",
-        "POCemail": "covid19vaccine@phhealthcare.org",
+        "POCemail": "",
         "FacilityType": "Hospital",
         "PublicLink": null,
         "SunBegin": null,
@@ -11645,7 +11645,7 @@
         "Notes": null,
         "CreationDate": 1610373164068,
         "Creator": "c_joeroger@pa.lcl_PADOH",
-        "EditDate": 1611179805700,
+        "EditDate": 1611927420452,
         "Editor": "nwardle@pa.lcl_PADOH",
         "VaccineYesNo": null
       }
@@ -11694,7 +11694,7 @@
         "FullAddress": "187 Hospital Dr., Tyrone, PA 16686",
         "POCname": "Penn Highlands Healthcare",
         "POCphone": "8145034735",
-        "POCemail": "covid19vaccine@phhealthcare.org",
+        "POCemail": "",
         "FacilityType": "Hospital",
         "PublicLink": null,
         "SunBegin": null,
@@ -11715,7 +11715,7 @@
         "Notes": null,
         "CreationDate": 1610373281460,
         "Creator": "c_joeroger@pa.lcl_PADOH",
-        "EditDate": 1611179664281,
+        "EditDate": 1611927436464,
         "Editor": "nwardle@pa.lcl_PADOH",
         "VaccineYesNo": null
       }
@@ -11729,7 +11729,7 @@
         "FullAddress": "1225 Warm Springs Ave, Huntingdon, PA 16652",
         "POCname": "Penn Highlands Healthcare",
         "POCphone": "8145034735",
-        "POCemail": "covid19vaccine@phhealthcare.org",
+        "POCemail": "",
         "FacilityType": "Hospital",
         "PublicLink": null,
         "SunBegin": null,
@@ -11750,7 +11750,7 @@
         "Notes": null,
         "CreationDate": 1610373386792,
         "Creator": "",
-        "EditDate": 1611179993576,
+        "EditDate": 1611927455856,
         "Editor": "nwardle@pa.lcl_PADOH",
         "VaccineYesNo": null
       }
