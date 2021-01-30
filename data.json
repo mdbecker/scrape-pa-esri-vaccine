@@ -24074,6 +24074,41 @@
         "Editor": "",
         "VaccineYesNo": null
       }
+    },
+    {
+      "attributes": {
+        "objectid": 778,
+        "globalid": "f463ad42-2656-469e-8f89-b16f002006a0",
+        "CompanyName": "Evergreen Pharmacy II, Inc",
+        "EntityName": "PA DOH",
+        "FullAddress": "702 Dekalb Pike",
+        "POCname": "Mr. Suh",
+        "POCphone": "6106160608",
+        "POCemail": "dhs.evergreenpharmrx@gmail.com",
+        "FacilityType": "Pharmacy",
+        "PublicLink": "https://www.evergreenpharmrx.com",
+        "SunBegin": null,
+        "SunEnd": null,
+        "MonBegin": "10",
+        "MonEnd": "17",
+        "TueBegin": "10",
+        "TueEnd": "17",
+        "WedBegin": "10",
+        "WedEnd": "17",
+        "ThuBegin": "10",
+        "ThuEnd": "17",
+        "FriBegin": "10",
+        "FriEnd": "17",
+        "SatBegin": "10",
+        "SatEnd": "16",
+        "ID_reqs": null,
+        "Notes": null,
+        "CreationDate": 1612032286259,
+        "Creator": "",
+        "EditDate": 1612032286259,
+        "Editor": "",
+        "VaccineYesNo": null
+      }
     }
   ]
 }
