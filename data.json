@@ -24144,6 +24144,41 @@
         "Editor": "",
         "VaccineYesNo": null
       }
+    },
+    {
+      "attributes": {
+        "objectid": 780,
+        "globalid": "6db694ab-ed3d-4b49-891b-fb53ac81ccd1",
+        "CompanyName": "Trilogy Mission RX LLC dba PCA Pittsburgh",
+        "EntityName": "Trilogy Mission RX LLC dba PCA Pittsburgh",
+        "FullAddress": "307 23rd Street Extension Sharpsburgh, PA 15215",
+        "POCname": "Ralph Pater",
+        "POCphone": "4124442886",
+        "POCemail": "VaccinePittsburgh@pcapharmacy.com",
+        "FacilityType": "Pharmacy",
+        "PublicLink": "None",
+        "SunBegin": null,
+        "SunEnd": null,
+        "MonBegin": null,
+        "MonEnd": null,
+        "TueBegin": null,
+        "TueEnd": null,
+        "WedBegin": null,
+        "WedEnd": null,
+        "ThuBegin": null,
+        "ThuEnd": null,
+        "FriBegin": null,
+        "FriEnd": null,
+        "SatBegin": null,
+        "SatEnd": null,
+        "ID_reqs": null,
+        "Notes": "Only servicing residents and staff of LTC facilities",
+        "CreationDate": 1612285633516,
+        "Creator": "",
+        "EditDate": 1612285633516,
+        "Editor": "",
+        "VaccineYesNo": "NotReceived"
+      }
     }
   ]
 }
